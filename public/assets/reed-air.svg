@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" fill="none">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#402e39"/><stop offset="1" stop-color="#211b25"/></linearGradient><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f4d99e"/><stop offset="1" stop-color="#d69372"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h900v600H0z"/><circle cx="690" cy="168" r="170" fill="#e4a878" fill-opacity=".09"/>
+  <path d="M265 113h365a20 20 0 0 1 20 20v333a20 20 0 0 1-20 20H265a20 20 0 0 1-20-20V133a20 20 0 0 1 20-20Z" fill="#5b4141"/>
+  <path d="M296 92h365a20 20 0 0 1 20 20v333a20 20 0 0 1-20 20H296a20 20 0 0 1-20-20V112a20 20 0 0 1 20-20Z" fill="url(#paper)"/>
+  <path d="M310 158h245M310 179h190M310 221h302M310 242h258M310 284h300M310 305h199M310 347h270M310 368h222" stroke="#6d5143" stroke-opacity=".3" stroke-width="5" stroke-linecap="round"/>
+  <path d="M556 373c34-36 82-27 87 9 6 35-46 49-79 29-29-18-19-62 16-66 43-6 63 34 46 77" stroke="#8c4e54" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="694" cy="401" r="67" stroke="#e8b77c" stroke-opacity=".25" stroke-width="2"/>
+</svg>

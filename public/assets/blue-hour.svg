@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" fill="none">
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#273a5b"/><stop offset=".57" stop-color="#a36670"/><stop offset="1" stop-color="#e8ab79"/></linearGradient></defs>
+  <path fill="#171c25" d="M0 0h900v600H0z"/><rect x="112" y="61" width="676" height="478" rx="18" fill="#10151e" stroke="#91a8d1" stroke-opacity=".22"/><path d="M130 80h640v410H130z" fill="url(#sky)"/>
+  <circle cx="583" cy="198" r="58" fill="#f1d9b1" fill-opacity=".83"/><path d="m130 389 175-151 119 94 101-75 245 188v45H130z" fill="#354761"/><path d="m130 417 190-101 134 83 151-113 165 133v71H130z" fill="#25384d"/><path d="m130 458 156-48 136 40 115-63 233 55v48H130z" fill="#1c2c3b"/>
+  <path d="M130 489h640" stroke="#f7e4cb" stroke-opacity=".5"/><rect x="155" y="463" width="124" height="20" rx="4" fill="#172332" fill-opacity=".8"/><text x="169" y="477" fill="#f2e6d7" font-family="monospace" font-size="10" letter-spacing="1">FIELD NOTE 04 / 18</text>
+</svg>
